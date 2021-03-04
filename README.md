@@ -18,7 +18,7 @@
 [2]: https://dev.to/kartik987
 [6]: https://github.com/Kartik987
 
-## About Me
+## <img src="https://github.com/Kartik987/Kartik/blob/main/About.png" > About Me
 
 I am a software Engineer and a student. Passionate about Machine learning, Data analysis, Opensource and programming. Follows a simple rule, No to purposeless coding. Sometimes fuzzing things by yourself gives you better experience rather learning from someone else.
 
@@ -27,7 +27,7 @@ I am a software Engineer and a student. Passionate about Machine learning, Data 
 - <img src="https://user-images.githubusercontent.com/48849171/109917003-9c2f6a80-7cda-11eb-909b-63b19c265b71.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="15" /> Open Source Contributor
 - <img src="https://user-images.githubusercontent.com/48849171/109916041-ed3e5f00-7cd8-11eb-904b-50cd30e0a426.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="15" /> Hactoberfest 2020 Badge
 
-## My Tech Stack
+## <img src="https://github.com/Kartik987/Kartik/blob/main/tools.png" width="30px"> My Tools and Technologies
 
 | Technologies  | Languages and Frameworks |
 | ------------- | ------------- |
