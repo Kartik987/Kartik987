@@ -48,6 +48,6 @@ I am a software Engineer and a student. Passionate about Machine learning, Data 
 
 | Git Score Card  | Top Languages |
 | ------------- | ------------- |
-|![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik987&show_icons=true&theme=radical) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact) |
+|![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik987&show_icons=true&theme=radical) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact&theme=radical) |
 
 
