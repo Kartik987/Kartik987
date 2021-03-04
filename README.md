@@ -18,6 +18,7 @@
 
 
 <br>
+
 ## <img src="https://github.com/Kartik987/Kartik/blob/main/About.png" width="25px" > About Me
 
 I am a software Engineer and a student. Passionate about Machine learning, Data analysis, Opensource and programming. Follows a simple rule, No to purposeless coding. Sometimes fuzzing things by yourself gives you better experience rather learning from someone else.
