@@ -9,12 +9,12 @@
 <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=Github&labelColor=black">
 </a>
 
-
-<a href="https://github.com/Kartik987">
+<a href="https://dev.to/kartik987">
 <img src="https://img.shields.io/badge/dev.to-white?style=flat&logo=dev.to&labelColor=black">
 </a>
-
-
+<a href="https://www.hackerrank.com/Kartik923">
+<img src="https://img.shields.io/badge/HackerRank-black?style=flat&logo=HackerRank&labelColor=#2EC866">
+</a>
 
 <br>
 
