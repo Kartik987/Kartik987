@@ -1,20 +1,19 @@
 ## Hello, folks! <img src="https://github.com/Kartik987/Kartik/blob/main/Wavehand.gif" width="30px"> I'am Kartik
 
-<p align=”center”>
+
 <a href="https://www.linkedin.com/in/kartik-arora-97ba1a203">
 <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&labelColor=black">
 </a>
-</p>
-<p align=”center”>
+
 <a href="https://github.com/Kartik987">
 <img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=Github&labelColor=black">
 </a>
-</p>
-<p align=”center”>
+
+
 <a href="https://github.com/Kartik987">
 <img src="https://img.shields.io/badge/dev.to-white?style=flat&logo=dev.to&labelColor=black">
 </a>
-</p>
+
 
 
 <br>
