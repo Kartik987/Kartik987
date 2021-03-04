@@ -18,7 +18,7 @@
 [2]: https://dev.to/kartik987
 [6]: https://github.com/Kartik987
 
-## <img src="https://github.com/Kartik987/Kartik/blob/main/About.png width="30px" > About Me
+## <img src="https://github.com/Kartik987/Kartik/blob/main/About.png" width="30px" > About Me
 
 I am a software Engineer and a student. Passionate about Machine learning, Data analysis, Opensource and programming. Follows a simple rule, No to purposeless coding. Sometimes fuzzing things by yourself gives you better experience rather learning from someone else.
 
