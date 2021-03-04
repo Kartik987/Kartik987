@@ -1,20 +1,22 @@
 ## Hello, folks! <img src="https://github.com/Kartik987/Kartik/blob/main/Wavehand.gif" width="30px"> I'am Kartik
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
+<p align=”center”>
+<a href="https://www.linkedin.com/in/kartik-arora-97ba1a203">
+<img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&labelColor=black">
+</a>
+</p>
+<p align=”center”>
+<a href="https://github.com/Kartik987">
+<img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=Github&labelColor=black">
+</a>
+</p>
+<p align=”center”>
+<a href="https://github.com/Kartik987">
+<img src="https://img.shields.io/badge/dev.to-white?style=flat&logo=dev.to&labelColor=black">
+</a>
+</p>
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
-
-[1.1]: https://github.com/Kartik987/Kartik/blob/main/linkedin.png (Linkedin)
-[2.1]: https://github.com/Kartik987/Kartik/blob/main/DEV.png (DEV)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[1]: https://www.linkedin.com/in/kartik-arora-97ba1a203
-[2]: https://dev.to/kartik987
-[6]: https://github.com/Kartik987
 <br>
 ## <img src="https://github.com/Kartik987/Kartik/blob/main/About.png" width="25px" > About Me
 
