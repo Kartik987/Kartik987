@@ -4,7 +4,6 @@
 [![alt text][2.1]][2]
 [![alt text][6.1]][6]
 
-
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
@@ -13,7 +12,6 @@
 [1.1]: https://github.com/Kartik987/Kartik/blob/main/linkedin.png (Linkedin)
 [2.1]: https://github.com/Kartik987/Kartik/blob/main/DEV.png (DEV)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
 [1]: https://www.linkedin.com/in/kartik-arora-97ba1a203
 [2]: https://dev.to/kartik987
 [6]: https://github.com/Kartik987
