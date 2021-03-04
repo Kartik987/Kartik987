@@ -10,31 +10,25 @@ I am a software Engineer and a student. Passionate about Machine learning, Data 
 
 ## My Tech Stack
 
-### Technologies ###
+| Technologies  | Languages and Frameworks |
+| ------------- | ------------- |
+| - Machine Learning  | - Flutter  |
+| - BigData(Hadoop, Hive)  | - Asp.net  |
+| - Busniess Intelligence(SAP, SPSS, Tableau Eviews) | - Sql |
+| - Web development  | - C++  |
+| - Mobile App Development  |- Java |
+|  | - Python  |
+|  | - Dart|
+|  | - Javascript |
+|  | - Bootstrap  |
+| | - Netbeans  |
 
-- Machine Learning
-- BigData(Hadoop, Hive)
-- Busniess Intelligence(SAP, SPSS, Tableau Eviews)
-- Web development
-- Mobile App Development
 
-### Languages and Frameworks ###
-
-- Flutter
-- Asp.net
-- Sql
-- C++
-- Java
-- Python
-- Dart
-- Javascript
-- Bootstrap
-- Netbeans
-- 
-### My Git Stats
+ 
+## My Git Stats
 
 | Git Score Card  | Top Languages |
 | ------------- | ------------- |
-|  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik987)](https://github.com/Kartik987/github-readme-stats) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact) |
 
 
