@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Kartik
+## Hello, folks! <img src="https://github.com/Kartik987/Kartik/blob/main/Wavehand.gif" width="30px"> I'am Kartik
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
