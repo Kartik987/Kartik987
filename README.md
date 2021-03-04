@@ -48,6 +48,6 @@ I am a software Engineer and a student. Passionate about Machine learning, Data 
 
 | Git Score Card  | Top Languages |
 | ------------- | ------------- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik987)](https://github.com/Kartik987/github-readme-stats) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact) |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact) |
 
 
