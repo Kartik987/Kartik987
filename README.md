@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://github.com/Kartik987/Kartik/blob/main/Wavehand.gif" width="30px"> I'am Kartik
+## Hi, There! <img src="https://github.com/Kartik987/Kartik/blob/main/Wavehand.gif" width="30px"> I'am Kartik
 
 
 <a href="https://www.linkedin.com/in/kartik-arora-97ba1a203">
