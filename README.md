@@ -33,11 +33,12 @@ I am a software Engineer and a student. Passionate about Machine learning, Data 
 | ------------- | ------------- |
 | - Machine Learning  | - Flutter  |
 | - BigData(Hadoop, Hive)  | - Asp.net  |
-| - Busniess Intelligence(SAP, SPSS, Tableau Eviews) | - Sql |
+| - Busniess Intelligence(SAP, SPSS, Tableau Eviews) | - Sql Server |
 | - Web development  | - C++  |
 | - Mobile App Development  |- Java |
 |  | - Python  |
 |  | - Dart|
+|  | - DotPeak|
 |  | - Javascript |
 |  | - Bootstrap  |
 | | - Netbeans  |
