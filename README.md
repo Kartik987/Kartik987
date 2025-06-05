@@ -14,7 +14,7 @@
 
 🚀 Full-Stack Software Engineer with 3.11+ years of experience building web applications with .NET, React, SQL Server, and cloud tooling.  
 
-- 🔭 Currently working at **Pine Labs** on Malaysia’s POS management system  
+- 🔭 Currently working at **Pine Labs** for Malaysia / UAE / Phillipines Merchant's POS Configuration management system  
 - 🧠 Passionate about secure coding, scalable architecture, and writing clean APIs  
 - 🌱 Exploring advanced React patterns, containerization, and cloud-native development  
 - 💬 Ask me about `.NET`, `Entity Framework`, `React`, `SQL`, `Docker`, `Kubernetes`, `Postman`, `API Security`
