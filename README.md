@@ -1,54 +1,80 @@
-## Hi, There! <img src="https://github.com/Kartik987/Kartik/blob/main/Wavehand.gif" width="30px"> I'am Kartik
+<h1 align="center">Hi there 👋, I'm Kartik Arora</h1>
+<h3 align="center">Software Engineer | .NET | React | AI(Copilot, ADK)</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-arora-97ba1a203"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/Kartik987"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github"></a>
+  <a href="https://dev.to/kartik987"><img src="https://img.shields.io/badge/dev.to-black?style=flat&logo=dev.to"></a>
+  <a href="https://www.hackerrank.com/Kartik923"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"></a>
+</p>
 
-<a href="https://www.linkedin.com/in/kartik-arora-97ba1a203">
-<img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&labelColor=black">
-</a>
+---
 
-<a href="https://github.com/Kartik987">
-<img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=Github&labelColor=black">
-</a>
+## 👨‍💻 About Me
 
-<a href="https://dev.to/kartik987">
-<img src="https://img.shields.io/badge/dev.to-white?style=flat&logo=dev.to&labelColor=black">
-</a>
-<a href="https://www.hackerrank.com/Kartik923">
-<img src="https://img.shields.io/badge/HackerRank-black?style=flat&logo=HackerRank&labelColor=#2EC866">
-</a>
+🚀 Full-Stack Software Engineer with 3.11+ years of experience building web applications with .NET, React, SQL Server, and cloud tooling.  
 
-<br>
+- 🔭 Currently working at **Pine Labs** on Malaysia’s POS management system  
+- 🧠 Passionate about secure coding, scalable architecture, and writing clean APIs  
+- 🌱 Exploring advanced React patterns, containerization, and cloud-native development  
+- 💬 Ask me about `.NET`, `Entity Framework`, `React`, `SQL`, `Docker`, `Kubernetes`, `Postman`, `API Security`
 
-## <img src="https://github.com/Kartik987/Kartik/blob/main/About.png" width="25px" > About Me
+---
 
-A Software Engineer Passionate about Machine learning, Data analysis, and programming. Sometimes fuzzing things by yourself gives you better insights rather learning from someone else.
+## ⚒️ Tech Stack
 
--  <img src="https://user-images.githubusercontent.com/48849171/109908732-ca0cb300-7cca-11eb-85a2-a034309c069d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="15" /> Software Engineer
-- <img src="https://user-images.githubusercontent.com/48849171/109909572-566ba580-7ccc-11eb-8986-3573fccc0ae7.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="15" /> Student 
-- <img src="https://user-images.githubusercontent.com/48849171/109917003-9c2f6a80-7cda-11eb-909b-63b19c265b71.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="15" /> Open Source Contributor
-- <img src="https://user-images.githubusercontent.com/48849171/109916041-ed3e5f00-7cd8-11eb-904b-50cd30e0a426.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="15" height="15" /> Hactoberfest 2020 Badge
+**Languages**:  
+`C#`, `JavaScript`, `Python`, `C++`, `SQL`, `Dart`
 
-## <img src="https://github.com/Kartik987/Kartik/blob/main/tools.png" width="30px"> My Tools and Technologies
+**Frameworks / Libraries**:  
+`.NET Core`, `ASP.NET MVC`, `React.js`, `Entity Framework`, `WCF`, `LINQ`, `jQuery`, `Bootstrap`
 
-| Technologies  | Languages and Frameworks |
-| ------------- | ------------- |
-| - Machine Learning  | - Flutter  |
-| - BigData(Hadoop, Hive)  | - Asp.net  |
-| - Busniess Intelligence(SAP, SPSS, Tableau Eviews) | - Sql Server |
-| - Web development  | - C++  |
-| - Mobile App Development  |- Java |
-|  | - Python  |
-|  | - Dart|
-|  | - DotPeak|
-|  | - Javascript |
-|  | - Bootstrap  |
-| | - Netbeans  |
+**DevOps / Tools**:  
+`Docker`, `Kubernetes`, `Jenkins`, `Azure Git`, `Swagger`, `Postman`, `GIT`, `TFS`, `Burp Suite`
 
+---
 
- 
-## My Git Stats
+## 📈 GitHub Stats
 
-| Git Score Card  | Top Languages |
-| ------------- | ------------- |
-|![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik987&show_icons=true&theme=slateorange) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact&theme=slateorange) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik987&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik987&layout=compact&theme=radical" width="48%" />
+</p>
 
+---
+
+## 🧠 Notable Projects
+
+- **🔐 JWT Authentication API**  
+  ASP.NET Core API with 3-layer architecture and secure JWT-based authentication  
+  → [GitHub Link](https://github.com/YOUR-JWT-REPO)
+
+- **🛒 Shopping Cart App**  
+  jQuery + Bootstrap based shopping cart with live total updates  
+  → [GitHub Link](https://github.com/YOUR-SHOPPING-CART)
+
+- **📊 JP Morgan Perspective**  
+  Open-source challenge to stream financial data, remove duplicates, and configure dynamic visuals  
+  → [GitHub Link](https://github.com/YOUR-JP-PROJECT)
+
+---
+
+## 🏆 Certifications
+
+- ✅ MongoDB Basics (M001)
+- ✅ Intro to Big Data (HDFS, MapReduce)
+- ✅ Big Data Modelling & Management
+
+---
+
+## 🙌 Let's Connect
+
+If you're building something cool or need a backend/frontend dev, feel free to reach out!
+
+📧 **arorakartik923@gmail.com**  
+📍 Based in Noida, India
+
+---
+
+_“Code with precision, secure with intent, and always keep learning.”_
 
