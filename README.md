@@ -47,15 +47,15 @@
 
 - **🔐 JWT Authentication API**  
   ASP.NET Core API with 3-layer architecture and secure JWT-based authentication  
-  → [GitHub Link](https://github.com/YOUR-JWT-REPO)
+  → [GitHub Link](https://github.com/Kartik987/Crud-Authentication-EntityFramework)
 
 - **🛒 Shopping Cart App**  
   jQuery + Bootstrap based shopping cart with live total updates  
-  → [GitHub Link](https://github.com/YOUR-SHOPPING-CART)
+  → [GitHub Link](https://github.com/Kartik987/Ecommerce)
 
 - **📊 JP Morgan Perspective**  
   Open-source challenge to stream financial data, remove duplicates, and configure dynamic visuals  
-  → [GitHub Link](https://github.com/YOUR-JP-PROJECT)
+  → [GitHub Link](https://github.com/Kartik987/JP-Morgan-Internship-Project)
 
 ---
 
